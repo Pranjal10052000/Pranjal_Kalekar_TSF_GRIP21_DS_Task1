@@ -1,4 +1,4 @@
-# Pranjal_Kalekar_TSF_GRIP21_DS_Task1
+# TSF_GRIP21_DS_Task1- Prediction using Supervised ML
 HII I am Pranjal Kalekar!!
 This repo contains a completed task provided by The Sparks Foundation to me under Graduate Rotational Internship Program
 This is 1st task under Data Science & Business Analytics Tasks.
